@@ -1,2 +1,4 @@
 dit is mijn eerste bestand!!
 
+git status
+Dit is een test in een branch!
